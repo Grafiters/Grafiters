@@ -24,7 +24,7 @@ Talk to me about
 
 ![alone_g's github stats](https://github-readme-stats.vercel.app/api?username=Grafiters&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Grafiters.Grafiters)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Grafiters)
 
 ```⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
 ```⭐️ From [Ciazhar](https://github.com/ciazhar)```
